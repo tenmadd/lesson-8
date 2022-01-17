@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.ph{
+    width: 1300px;
+    border: 2px solid olive;
+    margin: auto;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.inner{
+    min-height: 300px;
+    width: 400px;
+    border: 2px solid olive;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.first{
+    background: url(../images/hhh.jpg);
+    background-size: cover;
+}
+.second{
+    background: url(../images/завантаження.jfif);
+    background-size: cover;
+}
+.tr{
+    background: url(../images/завантаження\ \(1\).jfif);
+    background-size: cover;
+}
+.fou{
+    background: url(../images/завантаження\ \(2\).jfif);
+    background-size: cover;
+}
+.fif{
+    background: url(../images/завантаження\ \(3\).jfif);
+    background-size: cover;
+}
+.s{
+    background: url(../images/завантаження\ \(4\).jfif);
+    background-size: cover;
+}
+.sev{
+    background: url(../images/vgif-ru-30732.gif);
+    background-size: cover;
+
+}
+.eig{
+    background: url(../images/happy-new-year-2022.gif);
+    background-size: cover;
+
+}
+.nin{
+    background-size: cover;
+}
+.first:hover{
+    transform: scale(1.2);
+}
+.second:hover{
+    transform: scale(1.2);
+}
+.tr:hover{
+    transform: scale(1.2);
+}
+.fou:hover{
+    transform: scale(1.2);
+}
+.fif:hover{
+    transform: scale(1.2);
+}
+.s:hover{
+    transform: scale(1.2);
+}
+.sev:hover{
+    transform: scale(1.2);
+}
+.eig:hover{
+    transform: scale(1.2);
+}
+.nin:hover{
+    transform: scale(1.2);
+}
+body{
+
+}
